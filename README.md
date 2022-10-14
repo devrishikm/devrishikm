@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dev Rishik Maruturi</h1>
-<h3 align="center">A CSE Sophomore trying Figure-Out Stuff!!</h3>
+<h3 align="center">A 3rd year CSE Student trying Figure-Out Stuff!!</h3>
 
 <p align="left"> <a href="https://twitter.com/devrishik_m" target="blank"><img src="https://img.shields.io/twitter/follow/devrishik_m?logo=twitter&style=for-the-badge" alt="devrishik_m" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devrishikm](https://github.com/devrishikm)
-
-- 📝 I regularly write articles on [devrishik.me](devrishik.me)
 
 - 📫 How to reach me **devrishikm@gmail.com**
 
