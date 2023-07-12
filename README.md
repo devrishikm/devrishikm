@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/devrishik_m" target="blank"><img src="https://img.shields.io/twitter/follow/devrishik_m?logo=twitter&style=for-the-badge" alt="devrishik_m" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devrishikm](https://github.com/devrishikm)
 
