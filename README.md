@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dev Rishik Maruturi</h1>
+<h1 align="center">Hi, I'm Dev Rishik Maruturi</h1>
 <h3 align="center">Studying Final Year at VIT-AP University</h3>
 
 <p align="left"> <a href="https://twitter.com/devrishik_m" target="blank"><img src="https://img.shields.io/twitter/follow/devrishik_m?logo=twitter&style=for-the-badge" alt="devrishik_m" /></a> </p>
-
-- 🌱 I’m currently learning **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devrishikm](https://github.com/devrishikm)
 
